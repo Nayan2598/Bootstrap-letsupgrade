@@ -1,0 +1,32 @@
+.my-column{
+	height: 150px;
+}
+
+.block {
+	height: auto;
+	min-height: 30px;
+}
+
+.row1{
+    height: 150px;
+	background-color:lightblue;
+}
+
+.row2{
+    height: 150px;
+	background-color: slateblue;
+}
+
+.row3{
+    height: 150px;
+	background-color: blue;
+}
+
+.my-container{
+	height: 600px;
+	background-color: skyblue;
+}
+
+.col-height{
+	height: 150px;
+}
